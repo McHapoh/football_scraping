@@ -1,0 +1,7 @@
+# Misc
+.DS_Store
+desktop.ini
+
+# Local
+/html
+/csv
